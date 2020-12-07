@@ -1,0 +1,5 @@
+vk-api~=11.9.1
+python-dotenv~=0.15.0
+pytz~=2020.4
+
+requests~=2.25.0
